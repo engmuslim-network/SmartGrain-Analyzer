@@ -5,3 +5,4 @@ RiceQual Vision — a smart image-based rice quality analyzer that detects impur
 RiceQual Vision is an intelligent image-processing application designed to evaluate the quality of rice by analyzing an uploaded image. The system detects and counts healthy rice grains and identifies impurities such as foreign particles or colored grains. Using color segmentation and contour detection in the HSV color space, it visually marks and quantifies the ratio of clean to impure grains.
 
 The goal of this project is to automate rice quality assessment in an accurate, fast, and user-friendly way — helping food inspectors, suppliers, or even researchers assess grain quality with a simple image.
+
